@@ -1,0 +1,11 @@
+{
+  "name": "7688duo",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node mqtt-publish.js"
+  },
+  "dependencies": {
+    "mqtt": ">=1.7.4"
+  }
+}
